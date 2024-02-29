@@ -6,3 +6,7 @@ The manual user input will be an rc receiver.
 The automatic sensor will be the accelerometers on the PICO to make the plane fly stable, there will be a button you can push on the controller that will enable auto stabilization.
 The acuators will be the digital linear servos that control the controll surfaces.
 The pico will be programmed to intigrate all these systems.
+I see 3 main issues with this:
+Budget; i am a little worried about the bufget esspecialy will all the diffrnet parts and the RC controller.
+Weight; paper airplains have very little lift, i need to save all the weight i posibly can.
+Strenght; with all the weight savings im worried about the structural integrity and the posiblility of a crash or a landing being devistating.
