@@ -1,0 +1,8 @@
+I have no begun construction on this project yet.
+I have not ordered any of the parts yet as im still finalizing the prototype design.
+I have not yet designed it but there will be a base for all the electronics to go on that will be 3d printed out of ABS so it wont melt in the sun.
+The display will be an LED on the plane that will indicate charge, it will start blinking when the battery is less than 10%.
+The manual user input will be an rc receiver.
+The automatic sensor will be the accelerometers on the PICO to make the plane fly stable, there will be a button you can push on the controller that will enable auto stabilization.
+The acuators will be the digital linear servos that control the controll surfaces.
+The pico will be programmed to intigrate all these systems.
