@@ -45,6 +45,7 @@ I think that the success of this device could have improved with better time man
 
 One of the biggest lessons I learned from this capstone is that of time management. I tended to procrastinate during the middle stages when I was having difficulty with the radios and it resulted in a product that could have been a lot better. Another big lesson I learned was choosing a realisticly achievable project. I kind of anticipated things to go a lot smoother and so I had to remove the controller and instead just have it powered.
 
+**How to build this**
 
 First solder headers that match a MPU and an XIAO on a custom PCB
 
